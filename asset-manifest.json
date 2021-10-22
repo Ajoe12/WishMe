@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wishme/static/css/main.26aff594.chunk.css",
+    "main.js": "/wishme/static/js/main.b8d6193a.chunk.js",
+    "main.js.map": "/wishme/static/js/main.b8d6193a.chunk.js.map",
+    "runtime-main.js": "/wishme/static/js/runtime-main.ef1217d9.js",
+    "runtime-main.js.map": "/wishme/static/js/runtime-main.ef1217d9.js.map",
+    "static/css/2.b2b01ed1.chunk.css": "/wishme/static/css/2.b2b01ed1.chunk.css",
+    "static/js/2.2141c790.chunk.js": "/wishme/static/js/2.2141c790.chunk.js",
+    "static/js/2.2141c790.chunk.js.map": "/wishme/static/js/2.2141c790.chunk.js.map",
+    "index.html": "/wishme/index.html",
+    "static/css/2.b2b01ed1.chunk.css.map": "/wishme/static/css/2.b2b01ed1.chunk.css.map",
+    "static/css/main.26aff594.chunk.css.map": "/wishme/static/css/main.26aff594.chunk.css.map",
+    "static/js/2.2141c790.chunk.js.LICENSE.txt": "/wishme/static/js/2.2141c790.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wishme/static/media/i2.8d2f5ef6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef1217d9.js",
+    "static/css/2.b2b01ed1.chunk.css",
+    "static/js/2.2141c790.chunk.js",
+    "static/css/main.26aff594.chunk.css",
+    "static/js/main.b8d6193a.chunk.js"
+  ]
+}
