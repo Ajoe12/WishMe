@@ -12,20 +12,20 @@ var content1 = "The day is a blank canvas yet to be painted with the colors of l
 const c = {
   color:"green"}
 
-if(currH>=12&&currH<=18){
+if(currH>=12&&currH<18){
        g="Good Afternoon"
        c.color = '#d5b60a'
        content="“Hope you have an afternoon as lovely as you are.”"
        content1=""
 }
-else if(currH>18&&currH<20){
+else if(currH>=18&&currH<20){
        g="Good Evening"
        c.color = "brown"
        content="Evening are life's way of saying"
        content1="that you are closer to your Dreams"
 
 }
-else if(currH>20&&currH<24){
+else if(currH>=20&&currH<24){
        g="Good Night"
        c.color = "black"
        content="Sleep well and Dream Big"
